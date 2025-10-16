@@ -1,0 +1,7 @@
+0	Hospital
+1	School
+2	Metro
+3	Lake
+4	Temple  
+5	Theatre
+6	Mall

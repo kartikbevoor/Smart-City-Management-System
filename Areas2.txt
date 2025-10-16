@@ -1,0 +1,6 @@
+0	160	MG road
+1	210	Jayanagar
+2	105	Chikpet
+3	95	Church street
+4	110	Vijaynagar
+5	100	National college

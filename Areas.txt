@@ -1,0 +1,6 @@
+0	Basavangudi
+1	Jayanagar
+2	Chikpet
+3	Koramangala
+4	Vijaynagar  
+5	Malleshwaram
